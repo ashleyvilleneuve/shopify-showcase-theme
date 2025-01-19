@@ -1,4 +1,4 @@
-Showcase Theme is a custom Shopify theme that highlights features and enhancements added by Ashley Villeneuve. This theme is built with performance, flexibility, and modern web standards in mind.
+Showcase Theme is a customized version of Shopify's Dawn theme that highlights features and enhancements added by Ashley Villeneuve. This theme is built with performance, flexibility, and modern web standards in mind.
 
 ## Features
 
